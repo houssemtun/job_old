@@ -1,0 +1,22 @@
+{
+    "todoList":[
+        {
+            "id": 1,
+            "title": "Complete your profile",
+            "content": "Finish your questionnaire for the best job search result.",
+            "date": "Today"
+        },
+        {
+            "id": 2,
+            "title": "Refine your job search",
+            "content": "Add more granular data for the best results.",
+            "date": "Today"
+        },
+        {
+            "id": 3,
+            "title": "Upload your resume",
+            "content": "Let us tailor your resume to give your the best chance of success.",
+            "date": "Today"
+        }
+    ]
+}

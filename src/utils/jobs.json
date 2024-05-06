@@ -1,0 +1,654 @@
+{
+  "jobList": [
+    {
+      "id": 1,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Matched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Applied",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Applied",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Matched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Matched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Interviewing",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Matched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Matched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Offered",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Offered",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Archived",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 15:30",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "company": "Klarna",
+      "location": "Berlin",
+      "jobType": "Hybrid",
+      "jobTitle": "Senior product manager",
+      "description": "Klarna is an eCommerce payment solutions platform for merchants and shoppers.",
+      "price": "70k-90k",
+      "people": "200-500",
+      "status": "Searched",
+      "progress": "Hiring",
+      "detail": {
+        "labels": ["job from google", "remote job", "good salary"],
+        "postedDate": "2023-12-20 1",
+        "metaData": [""],
+        "descripton": "We are seeking a talented and motivated Software Engineer to join our team. In this role, you will be responsible for designing, developing, and maintaining high-quality software solutions. You will collaborate with cross-functional teams to define, design, and ship new features, and work on bug fixing and improving application performance. The ideal candidate should have a strong understanding of software development best practices, excellent problem-solving skills, and a passion for creating innovative software solutions.",
+        "task": [
+          "Designing, developing, and maintaining high-quality software solutions",
+          "Collaborating with cross-functional teams to define, design, and ship new features",
+          "Working on bug fixing and improving application performance",
+          "Demonstrating a strong understanding of software development best practices",
+          "Applying excellent problem-solving skills to create innovative software solutions"
+        ]
+      }
+    }
+  ]
+}

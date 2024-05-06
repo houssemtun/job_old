@@ -1,0 +1,178 @@
+[
+  {
+    "skill_uuid": "9a55090a-3f83-4e5a-8cfc-6393bbb08377",
+    "skill": "javascript",
+    "skill_short": "javascript",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "d30e5cca-769f-4727-91b2-b0ee879b1fd1",
+    "skill": "php",
+    "skill_short": "php",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "1f57b0b2-f1d3-4e3b-a7cb-a072f6148096",
+    "skill": "python",
+    "skill_short": "python",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "93f8e7fc-d19d-4b46-8de6-207ae6b0f789",
+    "skill": "java",
+    "skill_short": "java",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "075836c1-1023-4128-91ea-f3b72b46d227",
+    "skill": "React",
+    "skill_short": "React",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "b95b58dc-4dba-405d-a231-617b1ec66633",
+    "skill": "Angular",
+    "skill_short": "Angular",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "e147f07f-5e63-43be-948a-d6ab0fe55dd0",
+    "skill": "Django",
+    "skill_short": "Django",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "d8905aa2-75d5-4e9c-9dca-a4c2c3bd423e",
+    "skill": "Expressjs",
+    "skill_short": "Expressjs",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "0b710e40-71d2-499b-9d71-4d4fff5d89b1",
+    "skill": "Laravel",
+    "skill_short": "Laravel",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "56ef0bfe-3576-48d2-b9a2-ef9c80a60987",
+    "skill": "MySQL",
+    "skill_short": "MySQL",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "173847ea-77dc-460c-b8ad-c4c0d6f7f11e",
+    "skill": "MongoDB",
+    "skill_short": "MongoDB",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "060e3ae7-cb73-4c1e-af17-71f440602174",
+    "skill": "PostgreSQL",
+    "skill_short": "PostgreSQL",
+    "skill_type": "hardskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "6afece27-ad47-42c9-8588-146d49693a1f",
+    "skill": "communication skills",
+    "skill_short": "communication skills",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "d5f91fe0-81fc-42a5-b4cf-bf59acbf3698",
+    "skill": "teamwork",
+    "skill_short": "teamwork",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "caf951b6-749b-4a04-8b2b-47bb798f249d",
+    "skill": "leadership",
+    "skill_short": "leadership",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "859e94ce-a304-4d46-9325-e00995367625",
+    "skill": "time management",
+    "skill_short": "time management",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "70590401-5ab5-41dc-a73e-412b3448c63f",
+    "skill": "adaptability",
+    "skill_short": "adaptability",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "02513e21-d048-4057-97eb-8346a1c23979",
+    "skill": "problem-solving",
+    "skill_short": "problem-solving",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "0de93fee-2b0d-46bb-86bb-26ebb8359b20",
+    "skill": "critical thinking",
+    "skill_short": "critical thinking",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "2f703e09-44ba-47c7-b6c5-15af358c65ad",
+    "skill": "work ethic",
+    "skill_short": "work ethic",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "72d7dfeb-7030-4b71-8958-37b65c5a15e1",
+    "skill": "creativity",
+    "skill_short": "creativity",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  },
+  {
+    "skill_uuid": "3c8a55f1-e426-4366-9e93-8400ae73aba6",
+    "skill": "emotional intelligence",
+    "skill_short": "emotional intelligence",
+    "skill_type": "softskill",
+    "lastchanged_at": "2024-04-11T19:39:47.031Z",
+    "created_at": "2024-04-11T19:39:47.031Z"
+  }
+]

@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  /* width: 100vw; */
+  min-height: 100vh;
+}
+
+.full-width {
+  width: 100% !important;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.border-primary {
+  border: 2px solid #1976d2 !important;
+}
+
+.full-height {
+  min-height: 100vh;
+}
+
+.no-trans {
+  text-transform: none !important;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-blue {
+  background-color: #1976d2;
+  color: white;
+}
+
+.bg-light-blue {
+  background-color:lightcyan;
+}
